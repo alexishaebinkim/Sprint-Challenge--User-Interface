@@ -81,7 +81,7 @@ header nav {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: baseline; 
     padding: 20px 2%;
     font-size: 14px;
 }
@@ -98,7 +98,6 @@ img.whitered {
 
 .top-content {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
